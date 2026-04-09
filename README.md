@@ -17,6 +17,7 @@ min           0.000000
 75%          10.000000
 max          52.000000
 ```
+<img width="1390" height="489" alt="download" src="https://github.com/user-attachments/assets/21089fec-a272-479b-b6ed-6196e91b294e" />
 
 ასევე ამ plot-ის მიხედვით ყველაზე მეტი გვაქვს ნეიტრალური მონაცემი, ამიტომ ცოტა არადაბალანსებული დატა გვაქვს.
 
